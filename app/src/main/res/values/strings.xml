@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Acronym Expander</string>
+    <string name="hint">Enter acronym here</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="no_acronym_entered">Please enter an acronym</string>
+    <string name="ok">OK</string>
+    <string name="frequency">Frequency: </string>
+    <string name="used_since">Used since: </string>
+</resources>
